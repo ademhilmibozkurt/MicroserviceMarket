@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\C#\\Asp.NetCore\\Microservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C56E52-0F93-4941-9517-A551CC2068F2}|InventoryModule\\InventoryService.API\\InventoryService.API.csproj|d:\\projects\\c#\\asp.netcore\\microservice\\inventorymodule\\inventoryservice.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C56E52-0F93-4941-9517-A551CC2068F2}|InventoryModule\\InventoryService.API\\InventoryService.API.csproj|solutionrelative:inventorymodule\\inventoryservice.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C56E52-0F93-4941-9517-A551CC2068F2}|InventoryModule\\InventoryService.API\\InventoryService.API.csproj|d:\\projects\\c#\\asp.netcore\\microservice\\inventorymodule\\inventoryservice.api\\dtos\\itemdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C56E52-0F93-4941-9517-A551CC2068F2}|InventoryModule\\InventoryService.API\\InventoryService.API.csproj|solutionrelative:inventorymodule\\inventoryservice.api\\dtos\\itemdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECFC7F8-8C5A-4243-BAC9-B260C36EA75D}|InventoryModule\\InventoryService.Data\\InventoryService.Data.csproj|d:\\projects\\c#\\asp.netcore\\microservice\\inventorymodule\\inventoryservice.data\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECFC7F8-8C5A-4243-BAC9-B260C36EA75D}|InventoryModule\\InventoryService.Data\\InventoryService.Data.csproj|solutionrelative:inventorymodule\\inventoryservice.data\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\projects\\C#\\Asp.NetCore\\Microservice\\InventoryModule\\InventoryService.API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "InventoryModule\\InventoryService.API\\Controllers\\ItemController.cs",
+              "ToolTip": "D:\\projects\\C#\\Asp.NetCore\\Microservice\\InventoryModule\\InventoryService.API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "InventoryModule\\InventoryService.API\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:00:06.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "D:\\projects\\C#\\Asp.NetCore\\Microservice\\InventoryModule\\InventoryService.Data\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "InventoryModule\\InventoryService.Data\\Repositories\\ItemRepository.cs",
+              "ToolTip": "D:\\projects\\C#\\Asp.NetCore\\Microservice\\InventoryModule\\InventoryService.Data\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "InventoryModule\\InventoryService.Data\\Repositories\\ItemRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:52:34.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemDtos.cs",
+              "DocumentMoniker": "D:\\projects\\C#\\Asp.NetCore\\Microservice\\InventoryModule\\InventoryService.API\\Dtos\\ItemDtos.cs",
+              "RelativeDocumentMoniker": "InventoryModule\\InventoryService.API\\Dtos\\ItemDtos.cs",
+              "ToolTip": "D:\\projects\\C#\\Asp.NetCore\\Microservice\\InventoryModule\\InventoryService.API\\Dtos\\ItemDtos.cs",
+              "RelativeToolTip": "InventoryModule\\InventoryService.API\\Dtos\\ItemDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:59:14.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
